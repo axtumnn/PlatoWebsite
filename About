@@ -1,0 +1,16 @@
+  <!-- Main About Section -->
+  <main>
+    <h2>About Plato Bakery</h2>
+    <p>Plato Bakery is a small, family-run bakery offering fresh bread, pastries, and cakes daily. We are passionate about quality, taste, and serving our community.</p>
+
+    <!-- Image placeholder for bakery interior -->
+    <img src="images/insideShop.jpg" alt="Inside view of Plato Bakery" width="600">
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 Plato Bakery</p>
+  </footer>
+
+</body>
+</html>
