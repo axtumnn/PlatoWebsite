@@ -1,8 +1,8 @@
 # Plato Bakery Website
 
 ## Student Information
-- **Name:** [Your Full Name]
-- **Student Number:** [Your Student Number]
+- **Name:** Matthew Ethan Raegan Reyneke
+- **Student Number:**ST10488245
 - **Course:** WEDE5020
 
 ## Project Overview
@@ -39,3 +39,4 @@ This submission includes:
 
 ## Sitemap
 "# PlatoWebsite" 
+<img width="924" height="493" alt="siteMap" src="https://github.com/user-attachments/assets/4bef16b2-b8b4-4202-9715-6ab96bda9c5c" />
