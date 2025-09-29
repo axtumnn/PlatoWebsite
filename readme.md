@@ -69,7 +69,9 @@ https://github.com/axtumnn/PlatoWebsite/edit/main/readme.md
 <img width="1916" height="653" alt="Screenshot 2025-09-29 231306" src="https://github.com/user-attachments/assets/4f9b3fca-3eba-4253-aa08-e506d93d8ca2" /> 
 <img width="1910" height="812" alt="Screenshot 2025-09-29 231338" src="https://github.com/user-attachments/assets/f78b2fc5-151f-41fe-8ea7-af4e2cdd37f9" /> 
 <img width="1914" height="694" alt="Screenshot 2025-09-29 231403" src="https://github.com/user-attachments/assets/8e6899a4-6af6-4a1b-9e82-07b295845859" /> 
-<img width="1899" height="693" alt="Screenshot 2025-09-29 231425" src="https://github.com/user-attachments/assets/9d13b37a-9e27-444e-a741-0606c953d692" />
+<img width="1899" height="693" alt="Screenshot 2025-09-29 231425" src="https://github.com/user-attachments/assets/9d13b37a-9e27-444e-a741-0606c953d692" /> 
+<img width="745" height="435" alt="Screenshot 2025-09-29 231733" src="https://github.com/user-attachments/assets/9f4a730f-314e-498e-b4c2-b790d45ec1b1" />
+
 
 
 
